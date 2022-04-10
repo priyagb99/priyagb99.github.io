@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics Projects
 
 [S&P 500 Affected Positively or Negatively by Covid-19](https://github.com/LeDataSciFi/asgn-05-priyagb99/blob/main/analysis_report.ipynb)
 <img src="images/Unknown.jpeg"/>
